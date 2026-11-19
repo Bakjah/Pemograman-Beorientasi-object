@@ -56,7 +56,7 @@ public class Main {
                     System.out.println("Pilihan tidak valid.");
             }
 
-        } while (pilihan != 4);
+        } while (pilihan != 5);
 
         scanner.close();
     }
